@@ -1,0 +1,36 @@
+
+nav{
+    color: rgb(7, 7, 7);
+    }
+h1,nav{
+    text-align: center;
+}
+
+h1,h2,h3,h4{ 
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+    }
+
+a{
+ color: black;
+}
+
+nav{
+    text-align: center;
+}
+
+body {
+    background-color: #000000;
+    color: white;
+}
+
+h1, nav {
+    text-align: left;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}

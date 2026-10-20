@@ -1,0 +1,45 @@
+body{
+background-color: violet; /* fondo */
+color: rgb(0, 0, 0); /* texto */
+font-size: x-large;
+text-align: left;
+font-family: "Fredoka", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+
+nav { 
+    color: rgb(249, 249, 252);
+    }
+a{
+    color: rgb(255, 255, 255);
+    }
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 70px;
+}
+
+.logo-titulo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.menu-links {
+    display: flex;
+    gap: 20px;
+}
+
+nav a img {
+  width: 200px; 
+  height: auto;
+}
