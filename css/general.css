@@ -65,3 +65,30 @@ nav {
   gap: 25px; 
   padding: 15px 0;
 }
+
+.zona-boton {
+  text-align: center; 
+  margin: 25px 0;
+}
+
+.boton-emociones {
+  display: inline-block; 
+  background-color: #9d4edd; 
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 12px 24px;
+  border-radius: 25px;
+  transition: 0.3s;
+}
+
+.boton-emociones:hover {
+  background-color: #7b2cbf; 
+  transform: scale(1.05);
+}
+
+.img-inicio {
+  display: block;
+  margin: 0 auto;
+  border-radius: 15px; 
+}
