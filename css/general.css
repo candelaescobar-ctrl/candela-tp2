@@ -92,3 +92,36 @@ nav {
   margin: 0 auto;
   border-radius: 15px; 
 }
+
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: #9d4edd;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+.sinopsis {
+  width: 60%;        
+  margin: 0 auto;   
+  text-align: center; 
+}
+
+.contenedor-trailer {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  gap: 30px;               
+  padding: 20px;
+}
+
+.texto-trailer {
+  width: 35%;             
+  text-align: left;        
+}
