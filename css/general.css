@@ -47,3 +47,21 @@ nav a img {
     background-color: black;
     color: white;
 }
+
+header {
+  position: sticky;
+  top: 0;
+  background-color: violet; 
+  z-index: 100;
+}
+
+#pagina-personajes header {
+  background-color: #000000;
+}
+
+nav {
+  display: flex;
+  justify-content: center; 
+  gap: 25px; 
+  padding: 15px 0;
+}
