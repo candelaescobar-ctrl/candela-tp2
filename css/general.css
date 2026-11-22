@@ -125,3 +125,42 @@ h1, h2, p {
   width: 35%;             
   text-align: left;        
 }
+
+
+main ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 0;
+}
+
+
+form {
+  width: 320px;
+  margin: 0 auto;
+}
+
+/
+.campo {
+  margin-bottom: 15px;
+}
+
+.campo input, .campo textarea {
+  width: 100%;
+  padding: 6px;
+}
+
+
+.boton-enviar {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+
+article iframe {
+  display: block;
+  margin: 20px auto;
+}
+
